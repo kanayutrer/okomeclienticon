@@ -1,2 +1,2 @@
 # okomeclienticon
-<h1>まだ何もなし</h1>
+<h1>まだ何もない</h1>
